@@ -1,14 +1,17 @@
 # Take-Home Assessment MVP RESTful API Project using CodeIgniter 3
 
 This project is a RESTful API developed using the CodeIgniter framework. It provides CRUD (Create, Read, Update, Delete) operations that can be accessed via HTTP requests using tools like Postman. The API is designed to be run locally for development and testing purposes.
--
+
+
+
 ## Features
 
 - Developed using **CodeIgniter** (PHP framework)
 - Implements a **RESTful API** with CRUD operations
 - Supports JSON input and output
 - Database integration using **MySQL**
--
+
+
 ## Prerequisites
 
 Before running this project, ensure you have the following installed:
@@ -17,7 +20,8 @@ Before running this project, ensure you have the following installed:
 - [MySQL](https://dev.mysql.com/downloads/)
 - [Apache](https://httpd.apache.org/download.cgi) or [Nginx](https://nginx.org/en/download.html) server
 - [Postman](https://www.postman.com/downloads/) (for API testing)
--
+
+
 ## Installation
 
 Follow these steps to set up the project locally:
